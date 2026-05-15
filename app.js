@@ -3,12 +3,12 @@
 ════════════════════════════ */
 const MENU = {
   breakfast: [
-    { name:"Idli",     tag:"Steamed rice cakes",     img:"https://images.unsplash.com/photo-1630383249896-424e482df921?w=400&auto=format&fit=crop" },
-    { name:"Dosa",     tag:"Crispy rice crepe",       img:"https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400&auto=format&fit=crop" },
-    { name:"Vada",     tag:"Fried lentil doughnut",   img:"https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400&auto=format&fit=crop" },
-    { name:"Pongal",   tag:"Spiced rice & lentils",   img:"https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&auto=format&fit=crop" },
-    { name:"Appam",    tag:"Soft lacy rice pancake",  img:"https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=400&auto=format&fit=crop" },
-    { name:"Upma",     tag:"Semolina breakfast bowl", img:"https://images.unsplash.com/photo-1645177628172-a94c1f96debb?w=400&auto=format&fit=crop" },
+    { name:"Idli",     tag:"Steamed rice cakes",     img:"https://www.foodie-trail.com/recipe_recipe/idli-rice-rava/" },
+    { name:"Dosa",     tag:"Crispy rice crepe",       img:"https://unsplash.com/s/photos/dosa" },
+    { name:"Vada",     tag:"Fried lentil doughnut",   img:"https://myfoodstory.com/medu-vada/" },
+    { name:"Pongal",   tag:"Spiced rice & lentils",   img:"https://www.vecteezy.com/free-photos/pongal-festival-dish" },
+    { name:"Appam",    tag:"Soft lacy rice pancake",  img:"https://vismaifood.com/en/best-appam-recipe-appam-batter-recipe-100-best-kerala-appam-how-to-make-appam" },
+    { name:"Upma",     tag:"Semolina breakfast bowl", img:"https://www.maggi.in/en/recipes/vegetable-rava-upma/" },
   ],
   lunch: [
     { name:"Chicken Biriyani", tag:"Aromatic spiced rice",    img:"https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=400&auto=format&fit=crop" },
